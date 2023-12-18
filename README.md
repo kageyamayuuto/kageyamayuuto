@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @yuu
-- 👀 I’m interested in code
-- 🌱 I’m currently learning to improve
-- 💞️ I’m looking to collaborate on understanding partner
-- 📫 SATISFY YOUR SOUL NOT THE SOCIETY
+- 👋 Hello, I am Yuunite.
+-   Stay halal brother.
