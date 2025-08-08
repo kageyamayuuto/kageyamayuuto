@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FFAA&lines=Hi%2C+I'm+Andi;a+Software+Developer+passionate+about+building+modern+applications.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F7DC6F&center=true&vCenter=true&width=900&lines=🌟+Hi%2C+I'm+Andi;💻+Passionate+Software+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
+
+
 ### 🛠️ Languages & Tools
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
