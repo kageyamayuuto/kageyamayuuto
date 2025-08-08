@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=5000&color=F7DC6F&center=true&vCenter=true&width=900&lines=🌟+Hi%2C+I'm+Andi;💻+Passionate+Software+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=5000&color=F7DC6F&center=true&vCenter=true&width=900&lines=🌟+Hi%2C+I'm+Andi;💻+Passionate+Software+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
+-->
+![Typing SVG](https://capsule-render.vercel.app/api?type=wave&color=0:ff0080,100:7928ca&height=200&section=header&text=Andi%20Saputra&fontSize=60&fontColor=ffffff&animation=fadeIn&descAlignY=75&descAlign=60&reversal=true)
 
 
 ### 🛠️ Languages & Tools
